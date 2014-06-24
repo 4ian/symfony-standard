@@ -9,7 +9,8 @@ set :scm,         :git
 set :use_sudo, 	  false
 # Or: `accurev`, `bzr`, `cvs`, `darcs`, `subversion`, `mercurial`, `perforce`, or `none`
 
-set :update_vendors, true
+set :update_vendors, false
+set :use_composer, true
 
 set :model_manager, "doctrine"
 # Or: `propel`

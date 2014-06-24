@@ -1,0 +1,4 @@
+yoda_test:
+    resource: "@YodaTestBundle/Resources/config/routing.yml"
+    prefix:   /
+

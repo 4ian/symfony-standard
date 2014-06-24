@@ -1,0 +1,7 @@
+parameters:
+#    yoda_test.example.class: Yoda\TestBundle\Example
+
+services:
+#    yoda_test.example:
+#        class: %yoda_test.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
